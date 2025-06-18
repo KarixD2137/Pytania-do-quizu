@@ -7,7 +7,7 @@
     "odpOK":"A",
   },
   "pytanie":{
-    "tresc":"Czego uczy pani Kupka",
+    "tresc":"Jakiego przedmiotu uczy pani Kupka?",
     "odpA":"Programowania aplikacji mobilnych i desktopowych",
     "odpB":"Programowania aplikacji webowych i desktopowych",
     "odpC":"Programowania aplikacji konsolowych i webowych",
@@ -21,14 +21,14 @@
     "odpOK":"C",
   },
     "pytanie":{
-    "tresc":"Kto uczy matematyki w klasie 3P (2024/25)",
+    "tresc":"Kto uczy matematyki w klasie 3P (2024/25)?",
     "odpA":"pani M. Dudek",
     "odpB":"pani I. Maciuła",
     "odpC":"pani E. Czyba",
     "odpOK":"B",
   },
     "pytanie":{
-    "tresc":"Kto ma najwięcej nieobecności w klasie 3P (2025/25)",
+    "tresc":"Kto ma najwięcej nieobecności w klasie 3P (2025/25)?",
     "odpA":"Patryk Kania",
     "odpB":"Dominik Kałuża",
     "odpC":"Bartosz Snopek",
