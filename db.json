@@ -1,11 +1,37 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "pytanie":{
+    "tresc":"Kto jest wychowawcą klasy 3P (2024/25)?",
+    "odpA":"Pan J. Szkabarnicki",
+    "odpB":"Pan S. Nadolski",
+    "odpC":"Pani M. Dudek",
+    "odpOK":"A",
+  },
+  "pytanie":{
+    "tresc":"Jakiego przedmiotu uczy pani Kupka?",
+    "odpA":"Programowania aplikacji mobilnych i desktopowych",
+    "odpB":"Programowania aplikacji webowych i desktopowych",
+    "odpC":"Programowania aplikacji konsolowych i webowych",
+    "odpOK":"A",
+  },
+    "pytanie":{
+    "tresc":"Jakiego imienia nie ma w klasie 3P (2024/25)?",
+    "odpA":"Szymon",
+    "odpB":"Łukasz",
+    "odpC":"Mateusz",
+    "odpOK":"C",
+  },
+    "pytanie":{
+    "tresc":"Kto uczy matematyki w klasie 3P (2024/25)?",
+    "odpA":"pani M. Dudek",
+    "odpB":"pani I. Maciuła",
+    "odpC":"pani E. Czyba",
+    "odpOK":"B",
+  },
+    "pytanie":{
+    "tresc":"Kto ma najwięcej nieobecności w klasie 3P (2025/25)?",
+    "odpA":"Patryk Kania",
+    "odpB":"Dominik Kałuża",
+    "odpC":"Bartosz Snopek",
+    "odpOK":"B",
   }
 }
