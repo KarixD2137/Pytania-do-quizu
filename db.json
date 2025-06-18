@@ -6,7 +6,7 @@
       "odpA":"Pan J. Szkabarnicki",
       "odpB":"Pan S. Nadolski",
       "odpC":"Pani M. Dudek",
-      "odpOK":"A",
+      "odpOK":"A"
     },
     {
       "id":"2"
@@ -14,7 +14,7 @@
       "odpA":"Programowania aplikacji mobilnych i desktopowych",
       "odpB":"Programowania aplikacji webowych i desktopowych",
       "odpC":"Programowania aplikacji konsolowych i webowych",
-      "odpOK":"A",
+      "odpOK":"A"
     },
     {
       "id":"3"
@@ -22,7 +22,7 @@
       "odpA":"Szymon",
       "odpB":"Łukasz",
       "odpC":"Mateusz",
-      "odpOK":"C",
+      "odpOK":"C"
     },
     {
       "id":"4"
@@ -30,7 +30,7 @@
       "odpA":"pani M. Dudek",
       "odpB":"pani I. Maciuła",
       "odpC":"pani E. Czyba",
-      "odpOK":"B",
+      "odpOK":"B"
     },
     {
       "id":"5"
@@ -38,7 +38,7 @@
       "odpA":"Patryk Kania",
       "odpB":"Dominik Kałuża",
       "odpC":"Bartosz Snopek",
-      "odpOK":"B",
+      "odpOK":"B"
     }
   ]
 }
